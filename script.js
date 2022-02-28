@@ -1,1 +1,1 @@
-k;
+console.log ("TEST");
